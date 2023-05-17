@@ -1,0 +1,31 @@
+_repo: A-history-of-England-principally-in-the-seventeenth-century-Volume-II_70730
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ranke, Leopold von
+    aliases:
+    - Von Ranke, Leopold
+    - Ranke, Leopoldo
+    birthdate: 1795
+    deathdate: 1886
+    gutenberg_agent_id: '33393'
+    url: http://www.gutenberg.org/2009/agents/33393
+    wikipedia: http://en.wikipedia.org/wiki/Leopold_von_Ranke
+description: ''
+gutenberg_issued: '2023-05-10'
+identifiers:
+  gutenberg: '70730'
+language: en
+pgterms:marc905: 20060321172424vonranke
+pgterms:marc906: '1875'
+pgterms:marc907: gb
+production_note: Frank van Drogen, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bClarendonpress, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A history of England principally in the seventeenth century, Volume II
+url: http://www.gutenberg.org/ebooks/70730
